@@ -33,5 +33,5 @@ This is a simple Todo application built using **FastAPI** and **MongoDB**. It al
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/rohitrathod2023/todo-app-using-FastAPI-and-mongodb.git
    cd todo-app
